@@ -6,6 +6,6 @@
 
 ### start-template-extra
 
-Project Initial template with extras
+[Project Initial template with style guide](https://github.com/jordirue/start-template-extra)
 
 ### Xenia.18
