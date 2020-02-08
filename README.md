@@ -8,4 +8,4 @@
 
 [Project Initial template with style guide](https://jordirue.github.io/start-template-extra/)
 
-### Xenia.18
+### Gazita
